@@ -1,0 +1,1 @@
+insert into subscriptions(id, follower_id, follow_id) values (1, 1, 2);
